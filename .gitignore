@@ -7,3 +7,19 @@ typechain-types
 cache
 artifacts
 deployments
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# Process files
+.node_pid
+*.pid
